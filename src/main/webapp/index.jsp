@@ -2,7 +2,7 @@
 	<head>
 		<title>Test Page</title>
 	</head>
-	<body bgcolor="red;">
+	<body bgcolor="red">
 		<p>Hello SDET- you are the future of AQE-testfetchCommand</p>
 		<input type="text" id="myText" value="">
 						<button onclick="myFunction()">Click Here</button>		
